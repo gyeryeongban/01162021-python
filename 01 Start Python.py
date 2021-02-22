@@ -1,0 +1,6 @@
+print('a')
+print('b')
+print('c')
+print('가')
+print('나')
+print('다')
